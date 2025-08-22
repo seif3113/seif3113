@@ -54,7 +54,7 @@ Currently pursuing my **Bachelor's in Data Science** at Alexandria University.
 ---
 
 ## 🐍 Watch my contributions turn into a snake!
-![snake gif](https://github.com/seif3113/seif3113/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seif3113/seif3113/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
