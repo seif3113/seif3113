@@ -53,10 +53,8 @@ Currently pursuing my **Bachelor's in Data Science** at Alexandria University.
 
 ---
 
-## 🐍 Watch my contributions turn into a snake!
-![Snake animation](https://github.com/seif3113/seif3113/blob/output/github-contribution-grid-snake.svg)
-
----
+## 📈 Activity Graph
+[![Seif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seif3113&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seif-ihab-a20293259)
