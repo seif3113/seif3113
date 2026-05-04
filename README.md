@@ -26,11 +26,4 @@ Full-stack engineer, backend at heart. Building scalable systems and APIs from A
 
 ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=seif3113&show_icons=true&theme=tokyonight&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seif3113&layout=compact&theme=tokyonight&hide_border=true)
-
-![streak](https://streak-stats.demolab.com/?user=seif3113&theme=tokyonight&hide_border=true)
-
----
-
 [Gmail](mailto:seif.ihab5555@gmail.com) · [linkedin](https://linkedin.com/in/seif-ihab-a20293259) · [codeforces](https://codeforces.com/profile/seif11)
