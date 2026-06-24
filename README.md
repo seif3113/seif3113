@@ -1,6 +1,6 @@
 # Seif Ihab
 
-Full-stack engineer, backend at heart. Building scalable systems and APIs from Alexandria, Egypt.  
+Full-stack engineer, backend at heart. Building scalable systems and APIs from Egypt.  
 
 ---
 
